@@ -2,5 +2,5 @@
 
 <p align="center"><img src="./media/screenshot.png"></p>
 
-## Sobre
+### Sobre
 Projeto do <a href="www.frontendmentor.io">Front-end mentor</a> desenvolvido para colocar em prática tecnologias de desenvolvimento front-end.
