@@ -60,8 +60,6 @@ function ShowThankYou() {
     thankyou.style.display = "flex";
 }
 
-console.log(noteElement)
-
 submit.addEventListener("click", function(note) {
     ShowThankYou();
 })
