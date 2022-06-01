@@ -4,3 +4,7 @@
 
 ### Sobre
 Projeto do <a href="www.frontendmentor.io">Front-end mentor</a> desenvolvido para colocar em prática tecnologias de desenvolvimento front-end.
+
+### Falta
+
+- [] Responsividade
