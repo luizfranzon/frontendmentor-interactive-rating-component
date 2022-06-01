@@ -1,4 +1,4 @@
-# Front-end Mentor: Interactive Rating Component
+# Front-end mentor: Interactive Rating Component
 
 <p align="center"><img src="./media/screenshot.png"></p>
 
