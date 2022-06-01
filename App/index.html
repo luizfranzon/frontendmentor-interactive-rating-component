@@ -9,9 +9,11 @@
 </head>
 <body>
     <div class="container">
-        <img src="" alt="">
+        <div class="star">
+            <img src="./assets/star.svg" alt="">
+        </div>
         <h1 class="title">Que nota você nos dá?</h1>
-        <p class="text">Por favor nos avalia como nos saímos com sua solicitação de suporte. Todo feedback é importante para nos ajudar e melhorar cada vez mais!</p>
+        <p class="text">Por favor, avalie em como nos saímos com sua solicitação de suporte. Todo feedback é importante para nos ajudar e melhorar cada vez mais!</p>
         <div class="buttons">
             <button class="grade-button">1</button>
             <button class="grade-button">2</button>
@@ -19,7 +21,18 @@
             <button class="grade-button">4</button>
             <button class="grade-button">5</button>
         </div>
-        <button class="submit">Enviar</button>
+        <button class="submit" type="submit" disabled>Enviar</button>
     </div>
+
+    <div class="container-thankyou">
+        <img src="./assets/phone.svg" alt="" class="phone">
+        <div class="note-box">
+            <p id="noteElement"></p>
+        </div>
+        <h1 class="thankyou">Obrigado!</h1>
+        <p class="text-thank">Apreciamos o tempo que deu para nos avaliar. <br> Se precisar de mais suporte não hesite em entrar em contato!</p>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
