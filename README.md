@@ -2,7 +2,7 @@
 
 <p align="center">
     <img src="./media/screenshot.png">
-    <h3><a href="https://luizfranzon.github.io/frontendMentor-Interactive-rating-component/App/">Demo</a></h3>
+    <h3><a href="https://luizfranzon.github.io/frontendmentor-interactive-rating-component/App/">Demo</a></h3>
 </p>
 
 ### Sobre
